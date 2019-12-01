@@ -16,11 +16,11 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.16.0",
-    "eslint-plugin-react-hooks": "^1.7.0",
-    "prettier": "^1.18.2",
-    "sucrase": "^3.10.1"
+    "eslint-plugin-react-hooks": "^1.7.0"
   },
   "dependencies": {
+    "prettier": "^1.18.2",
+    "sucrase": "^3.10.1",
     "sequelize-cli": "^5.5.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
