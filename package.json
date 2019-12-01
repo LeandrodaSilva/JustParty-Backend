@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "nodemon src/server.js"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
